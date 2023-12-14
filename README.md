@@ -22,7 +22,6 @@ approach is more effective for driver drowsiness detection. This comparative ana
 application and help us make an informed choice between CNN-based models and TL-based models. 
 
 # libraries need:
-* pip install 
 * opencv-python 
 * numpy 
 * matplotlib 
