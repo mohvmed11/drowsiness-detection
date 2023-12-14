@@ -1,7 +1,7 @@
-# drowsiness-detection
+# drowsiness-detection:
 Drowsiness detection is a critical aspect of ensuring safety in various domains, including transportation, online learning, and multimedia consumption. In this project, we present a thorough investigation of drowsiness detection methods, focusing on the use of CNN and Transfer Learning. We evaluate our approach on various datasets
 
-# datasets:
+# dataset:
 
 In the realm of drowsiness detection, the quality and diversity of datasets play a crucial role in the development and evaluation of effective models and systems. Datasets serve as 
 the foundation upon which machine learning algorithms and deep learning networks are trained and tested. The selection of appropriate datasets is paramount in ensuring the accuracy and reliability of drowsiness detection systems. In our research, we leveraged a variety of datasets, each offering unique characteristics and challenges, to assess the robustness and 
